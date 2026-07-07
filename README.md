@@ -5,7 +5,7 @@ A modern Fake News Detection web application built using **Machine Learning**, *
 The system analyzes news articles and predicts whether the content is likely **Real** or **Fake** using TF-IDF vectorization and a Logistic Regression classification model.
 
 The application also provides confidence analysis, suspicious language detection, prediction history tracking, and interactive analytics dashboards.
-
+ 
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 ![Python](https://img.shields.io/badge/python-3.x-blue)
 ![Built With](https://img.shields.io/badge/Built%20With-Streamlit-red)
