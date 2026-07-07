@@ -11,7 +11,7 @@ The application also provides confidence analysis, suspicious language detection
 ![Built With](https://img.shields.io/badge/Built%20With-Streamlit-red)
 
 ---
-
+ 
 # ✨ Features
 
 ## 📰 News Classification
